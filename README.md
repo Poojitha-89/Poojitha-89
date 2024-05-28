@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Poojitha
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently Machine learning for Data Science
+- 🌱 I'M currently learning ml and ds
 - 💞️ I’m looking to collaborate on ML ,Data science
 - 📫  Reach me  on linkedin.com/in/pujitha-g-bb041a267/
 - 😄 Pronouns: ...
